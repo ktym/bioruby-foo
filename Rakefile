@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "bio-foo"
   gem.homepage = "http://github.com/ktym/bioruby-foo"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{one-line summary of your gem}
+  gem.description = %Q{longer description of your gem}
   gem.email = "k@bioruby.org"
   gem.authors = ["Toshiaki Katayama"]
   # dependencies defined in Gemfile
